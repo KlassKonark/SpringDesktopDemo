@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2079" started-at="2018-07-24T10:31:31Z" finished-at="2018-07-24T10:31:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2079" started-at="2018-07-24T10:31:31Z" finished-at="2018-07-24T10:31:33Z">
+      <class name="com.scp.TestingCase.TESTNG_DEMO.DemoTest">
+        <test-method status="PASS" signature="methodOne(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.TestingCase.TESTNG_DEMO.DemoTest@19d37183]" name="methodOne" duration-ms="30" started-at="2018-07-24T16:01:33Z" data-provider="userValues" finished-at="2018-07-24T16:01:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Konark]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[skylight]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method status="PASS" signature="methodOne(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.TestingCase.TESTNG_DEMO.DemoTest@19d37183]" name="methodOne" duration-ms="6" started-at="2018-07-24T16:01:33Z" data-provider="userValues" finished-at="2018-07-24T16:01:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyza]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Failed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method status="PASS" signature="methodOne(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.TestingCase.TESTNG_DEMO.DemoTest@19d37183]" name="methodOne" duration-ms="5" started-at="2018-07-24T16:01:33Z" data-provider="userValues" finished-at="2018-07-24T16:01:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pwert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vnjia]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Failed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method status="PASS" signature="methodThree()[pri:0, instance:com.scp.TestingCase.TESTNG_DEMO.DemoTest@19d37183]" name="methodThree" duration-ms="5" started-at="2018-07-24T16:01:33Z" finished-at="2018-07-24T16:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThree -->
+        <test-method status="PASS" signature="methodTwo()[pri:0, instance:com.scp.TestingCase.TESTNG_DEMO.DemoTest@19d37183]" name="methodTwo" duration-ms="4" started-at="2018-07-24T16:01:33Z" finished-at="2018-07-24T16:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwo -->
+      </class> <!-- com.scp.TestingCase.TESTNG_DEMO.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
